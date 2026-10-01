@@ -35,12 +35,11 @@ The repository may include:
 IranFilternetBypass/
 │
 ├── configs/
-│   ├── countries/
-│   │   ├── vless/
-│   │   ├── vmess/
-│   │   ├── shadowsocks/
-│   │   ├── subscriptions/
-│   │   └── trojan/
+│   ├── vless/
+│   ├── vmess/
+│   ├── shadowsocks/
+│   ├── subscriptions/
+│   ├── trojan/
 │   └── ...
 │
 ├── tools/
