@@ -10,6 +10,8 @@ A message from the owner:
 
 We love the people in iran (except the ones who love Islamic Republic), and we want to give them the freedom of the internet. **BUT** please don't sell our free configs. We get in trouble often with this and we are asking you to not sell our configs. Its okay to share them but please don't sell them. Thank you.
 
+---
+
 ## 📌 What is this?
 
 **IranFilternetBypass** collects resources that may help users in Iran access websites and services that are blocked, filtered, or disrupted.
